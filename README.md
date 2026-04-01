@@ -1,3 +1,6 @@
+
+![readcut_preview](https://github.com/user-attachments/assets/e8d46cee-af1e-4ab8-802c-fd5d27ecf113)
+
 # ReadCut Releases
 
 Official Early Access builds and installers for ReadCut.
