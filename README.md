@@ -19,3 +19,7 @@ Download the latest Early Access build from the [Releases](../../releases) page.
 - This repository contains official Early Access release assets only.
 - Source code is not included.
 - Currently available for macOS.
+- Apple Silicon required
+- macOS 14+
+- 16 GB memory or above recommended
+- First launch may take longer because models are downloaded locally
