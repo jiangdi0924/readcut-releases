@@ -3,7 +3,7 @@
 
 # ReadCut Releases
 
-Official Early Access builds and installers for ReadCut.
+Official Early Access builds and installers for ReadCut.  https://www.readcut.xyz
 
 ## About ReadCut
 
